@@ -1,0 +1,4 @@
+git status - Shows you the status of the repository, or your files
+git add * - Adds the modification to git
+git commit -m "comment" - Commits changes with comment
+git push origin master - Transfers files from your device to github
